@@ -528,9 +528,9 @@ background-color: #404bbf;
     margin-bottom: 16px;
 }
 
-.icon-list-footer {
+.footer-flex {
     display: flex;
-    gap: 16px;
+    align-items: baseline;
 }
 
 .icon-item-footer {
