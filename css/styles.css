@@ -512,7 +512,7 @@ background-color: #404bbf;
     letter-spacing: 0.02em;
     color: #f4f4fd;
     padding-left: 0;
-    max-width: 264px;
+    width: 264px;
 }
 
 .footer-wrap {
@@ -526,6 +526,7 @@ background-color: #404bbf;
     letter-spacing: 0.02em;
     color: #FFFFFF;
     margin-bottom: 16px;
+    
 }
 
 .footer-flex {
@@ -561,6 +562,8 @@ background-color: #404bbf;
 .icon-list-footer {
     display: flex;
     gap: 16px;
+    margin: 0 auto;
+    padding-left: 0;
 }
 
 .icon-icon-footer {
